@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', Helvetica, Arial, serif;
-    font-size: 16px;
+    font-size: 20px;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -12,7 +12,7 @@ body {
 }
 @media (min-width: 58rem) {
     body {
-        font-size: 20px;
+        font-size: 16px;
     }
 }
 a {text-decoration: none}
