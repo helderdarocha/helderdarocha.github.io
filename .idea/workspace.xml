@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb42588-4af2-475b-9e88-817af779fa05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/disqus_comments.html" afterPath="$PROJECT_DIR$/_includes/disqus_comments.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="helderdarocha.github.io.iws" />
@@ -47,7 +46,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="75" selection-start="388" selection-end="388" vertical-scroll-proportion="0.60336536" vertical-offset="4" max-vertical-offset="675">
+            <state line="24" column="82" selection-start="620" selection-end="620" vertical-scroll-proportion="0.8918269" vertical-offset="4" max-vertical-offset="690">
               <folding />
             </state>
           </provider>
@@ -422,7 +421,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="75" selection-start="388" selection-end="388" vertical-scroll-proportion="0.60336536" vertical-offset="4" max-vertical-offset="675">
+        <state line="24" column="82" selection-start="620" selection-end="620" vertical-scroll-proportion="0.8918269" vertical-offset="4" max-vertical-offset="690">
           <folding />
         </state>
       </provider>
