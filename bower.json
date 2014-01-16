@@ -1,0 +1,41 @@
+{
+  "name": "helderdarocha.github.io",
+  "version": "1.0.0",
+  "homepage": "https://helderdarocha.github.io",
+  "authors": [
+    "helderdarocha <helder.darocha@gmail.com>"
+  ],
+  "description": "Nomadic programmer: an IT blog in GitHub",
+  "main": "index.html",
+  "keywords": [
+    "blog",
+    "technology",
+    "java",
+    "javascript",
+    "css",
+    "ruby",
+    "html5",
+    "css3",
+    "sass",
+    "less",
+    "node.js",
+    "svg",
+    "jsf",
+    "web",
+    "services",
+    "rest",
+    "soap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~2.1.3",
+    "html5shiv": "~3.7.0"
+  }
+}

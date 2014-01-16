@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"   
+     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     x="0px" y="0px" 
+     width="200" height="90" 
+     viewBox="0, 0, 200, 90">
+    
+    <defs>
+        <rect id="square" 
+              x="0" y="0" 
+              height="60" width="60" 
+              stroke="white" stroke-width="3"/>
+    </defs>
+    
+      <use xlink:href="#square" fill="#F9C623" 
+           transform="translate(30, 10) rotate(30) "/>
+      <use xlink:href="#square" fill="#009949" 
+           transform="translate(90, 0) rotate(60)"/>
+      <use xlink:href="#square" fill="#D8232A" 
+           transform="translate(150, 30) rotate(90) "/>
+      <use xlink:href="#square" fill="#292D78" 
+           transform="translate(200, 35) rotate(120)"/>
+</svg>

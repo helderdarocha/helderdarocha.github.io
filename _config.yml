@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            nomadic programmer
+tagline:          'helder da rocha'
+description:      'thoughts, ideas and discoveries from technological journeys'
+url:              http://helderdarocha.github.io
+
+author:
+  name:           'Helder da Rocha'
+  url:            https://twitter.com/helderdarocha
+
+paginate:         5

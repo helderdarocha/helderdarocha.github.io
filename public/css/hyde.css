@@ -1,0 +1,209 @@
+/*
+ *  __                  __
+ * /\ \                /\ \
+ * \ \ \___   __  __   \_\ \     __
+ *  \ \  _ `\/\ \/\ \  /'_` \  /'__`\
+ *   \ \ \ \ \ \ \_\ \/\ \_\ \/\  __/
+ *    \ \_\ \_\/`____ \ \___,_\ \____\
+ *     \/_/\/_/`/___/> \/__,_ /\/____/
+ *                /\___/
+ *                \/__/
+ *
+ * Designed, built, and released under MIT license by @mdo. Learn more at
+ * https://github.com/poole/hyde.
+ */
+
+
+/*
+ * Contents
+ *
+ * Global resets
+ * Sidebar
+ * Container
+ * Reverse layout
+ * Themes
+ */
+
+
+/*
+ * Global resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+html {
+  font-family: 'Trebuchet MS', Helvetica, Arial, serif;
+  font-size: 16px;
+}
+@media (min-width: 48rem) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (min-width: 58rem) {
+  html {
+    font-size: 20px;
+  }
+}
+
+
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.sidebar {
+  text-align: center;
+  padding: 2rem 0.5rem;
+  color: #000;
+  background-color: transparent;
+  border-right: solid #888 1px;
+  height: inherit;
+}
+@media (min-width: 48rem) {
+  .sidebar {
+    position: relative;
+    left: 0;
+    top: 15rem;
+    width: 12rem;
+    text-align: left;
+  }
+}
+
+/* Sidebar links */
+.sidebar a {
+  color: #000;
+}
+
+/* About section */
+.sidebar-about h1 {
+  color: #000;
+  margin-top: 0;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  padding-left: 0;
+  list-style: none;
+}
+.sidebar-nav-item {
+  display: block;
+}
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+  text-decoration: underline;
+}
+.sidebar-nav-item.active {
+  font-weight: bold;
+}
+
+/*
+ * Topbar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.topbar {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: rgba(255,255,255,.5);
+    background-color: #6a9fb5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+/* Sidebar links */
+.topbar a {
+    color: #fff;
+}
+
+/* About section */
+.topbar-about h1 {
+    color: #fff;
+    margin-top: 0;
+    font-family: "Abel", serif;
+    font-size: 3.25rem;
+}
+
+/* Sidebar nav */
+.topbar-nav {
+    padding-left: 0;
+    list-style: none;
+}
+.topbar-nav-item {
+    display: inline;
+    border: solid white 1px;
+    padding: 5px;
+    margin: 5px;
+}
+a.topbar-nav-item:hover,
+a.topbar-nav-item:focus {
+    text-decoration: underline;
+}
+.topbar-nav-item.active {
+    font-weight: bold;
+}
+
+/* Container
+ *
+ * Align the contents of the site above the proper threshold with some margin-fu
+ * with a 25%-wide `.sidebar`.
+ */
+
+.content {
+  padding-top:    4rem;
+  padding-bottom: 4rem;
+}
+
+@media (min-width: 48rem) {
+  .content {
+    /*max-width: 38rem;*/
+    padding-top:    1rem;
+    margin-left: 12rem;
+    margin-right: 2rem;
+  }
+}
+
+@media (min-width: 64rem) {
+  .content {
+    padding-top:    1rem;
+    margin-left: 14rem;
+    margin-right: 6rem;
+  }
+}
+
+
+/*
+ * Reverse layout
+ *
+ * Flip the orientation of the page by placing the `.sidebar` on the right.
+ */
+
+@media (min-width: 48rem) {
+  .layout-reverse .sidebar {
+    left: auto;
+    right: 0;
+  }
+  .layout-reverse .content {
+    margin-left: 2rem;
+    margin-right: 16rem;
+  }
+}
+
+@media (min-width: 64rem) {
+  .layout-reverse .content {
+    margin-left: 4rem;
+    margin-right: 18rem;
+  }
+}
+
+.content a,
+.related-posts li a:hover {
+  color: #6a9fb5;
+}

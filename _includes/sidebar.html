@@ -1,0 +1,23 @@
+<section class="sidebar">
+    <nav>
+        <div>
+            <h1>Posts</h1>
+        </div>
+
+        <ul class="menu">
+            {% assign posts_list = site.posts %}
+            {% for node in posts_list limit: 10 %}
+            {% if node.title != null %}
+            {% if node.layout == "post" %}
+            <li class="menu-item{% if post.url == node.url %} active{% endif %}">
+                <small>{{ node.date | date_to_string }}</small><br>
+                <a href="{{ node.url }}">{{ node.title }}</a>
+
+            </li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+
+        </ul>
+    </nav>
+</section>
