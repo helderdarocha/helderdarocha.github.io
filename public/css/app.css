@@ -30,8 +30,9 @@ small {font-size: 70%}
 }
 
 #page-foot {
-    background: black;
+    background-color: #6a9fb5;
     color: rgba(100%,100%,100%,0.7);
+    margin-top: 1rem;
     position: static;
 }
 
