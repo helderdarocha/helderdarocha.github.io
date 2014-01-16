@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eb42588-4af2-475b-9e88-817af779fa05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
-    </list>
+    <list default="true" id="2eb42588-4af2-475b-9e88-817af779fa05" name="Default" comment="" />
     <ignored path="helderdarocha.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="1" selection-start="685" selection-end="685" vertical-scroll-proportion="0.64362854" vertical-offset="317" max-vertical-offset="2580">
+            <state line="32" column="30" selection-start="558" selection-end="558" vertical-scroll-proportion="0.35205182" vertical-offset="317" max-vertical-offset="2580">
               <folding />
             </state>
           </provider>
@@ -199,7 +197,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="1" selection-start="685" selection-end="685" vertical-scroll-proportion="0.64362854" vertical-offset="317" max-vertical-offset="2580">
+        <state line="32" column="30" selection-start="558" selection-end="558" vertical-scroll-proportion="0.35205182" vertical-offset="317" max-vertical-offset="2580">
           <folding />
         </state>
       </provider>
