@@ -37,9 +37,11 @@ small {font-size: 70%}
 #page-foot {
     background-color: #6a9fb5;
     color: rgba(100%,100%,100%,0.7);
-    position: relative;
+    position:relative;
+    top: auto;
+    bottom:0;
+    width:100%;
     height: 1.5rem;
-    clear:both;
 }
 
 /* Top bar */
