@@ -1,7 +1,7 @@
 <section class="header">
     <nav>
         <ul class="menu">
-            <li class="menu-item{% if page.title == 'Home' %} menu-item-active{% endif %}">
+            <li class="menu-item">
                 <a href="/"><i class="fa fa-home"></i></a>
             </li>
 
@@ -19,7 +19,13 @@
         </ul>
     </nav>
     <header>
-        <h1 class="site-title">{{ site.title }}</h1>
+        <h1 class="site-title">
+            {% if page.root %}
+                {{ site.title }}
+            {% else %}
+                <a href="/">{{ site.title }}</a>
+            {% endif %}
+        </h1>
 
         <p class="lead">{{ site.description }}</p>
     </header>
