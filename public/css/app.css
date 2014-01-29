@@ -70,7 +70,7 @@ small {font-size: 70%}
 .header header h1 {
     color: #fff;
     font-family: "Abel", serif;
-    font-size: 4rem;
+    font-size: 3.5rem;
 }
 
 .header .menu-item a {
@@ -120,6 +120,12 @@ small {font-size: 70%}
     min-height: 100%;
 }
 
+@media (min-width: 60rem) {
+    #page-body .content {
+        width: 48rem;
+    }
+}
+
 @media (min-width: 48rem) {
     #page-body .sidebar {
         display: block;
@@ -128,6 +134,10 @@ small {font-size: 70%}
         float: left;
         min-height: 100%;
         top: 0;
+    }
+
+    .header header h1 {
+        font-size: 5rem;
     }
 
     #page-body .content {
