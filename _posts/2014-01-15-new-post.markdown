@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Booting..."
-date:   2014-01-15 09:48:24
-categories: testing
----
-
-I just started to set it up. Come back in a couple of days!
