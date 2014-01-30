@@ -11,7 +11,7 @@ I have several other sites but most are in Portuguese. At <http://www.argonavis.
 
 If you wish to send me a message, here are my contacts:
 
-* [Twitter](http://www.twitter.com/helderdarocha)
-* [Facebook] (https://www.facebook.com/helderdarocha)
+* [Twitter]  (http://www.twitter.com/helderdarocha)
+* [Facebook] (http://www.facebook.com/helderdarocha)
 * [LinkedIn] (http://www.linkedin.com/in/helderdarocha)
-* [E-mail] (mailto:)
+* [E-mail]   (mailto:helder@argonavis.com.br)
