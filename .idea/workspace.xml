@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb42588-4af2-475b-9e88-817af779fa05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown" afterPath="$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown" afterPath="$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.md" afterPath="$PROJECT_DIR$/about.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="helderdarocha.github.io.iws" />
@@ -28,40 +28,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2014-01-15-hello-world.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.7875" vertical-offset="0" max-vertical-offset="405">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+            <state line="13" column="0" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.62376237" vertical-offset="0" max-vertical-offset="505">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495">
+            <state line="18" column="129" selection-start="360" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syntax.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/syntax.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topbar_argo.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/topbar_argo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="31" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
@@ -70,55 +94,25 @@
       <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585">
+            <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bower.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bower.json">
+      <file leaf-file-name="sidebar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-01-29-trying-dr-jekylls-potion.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown">
+      <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="2253" selection-end="2253" vertical-scroll-proportion="-17.555555" vertical-offset="141" max-vertical-offset="945">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disqus_comments.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disqus_comment_count.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/app.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495">
+            <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -148,13 +142,15 @@
         <option value="$PROJECT_DIR$/public/css/app.css" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="59" />
-    <option name="y" value="22" />
+    <option name="x" value="62" />
+    <option name="y" value="51" />
     <option name="width" value="1281" />
     <option name="height" value="822" />
   </component>
@@ -249,6 +245,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2014-01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helderdarocha.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helderdarocha.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -277,6 +295,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helderdarocha.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helderdarocha.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helderdarocha.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helderdarocha.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_drafts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -291,7 +337,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../argonavis.com.br/jekyll_blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-blog" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
@@ -360,11 +406,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="22" width="1281" height="822" extended-state="0" />
+    <frame x="62" y="51" width="1281" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329235" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24043716" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -399,46 +445,49 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="345">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="2253" selection-end="2253" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="750">
-          <folding />
-        </state>
+        <state line="41" column="0" selection-start="2253" selection-end="2253" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="750" />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -446,23 +495,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495">
-          <folding />
-        </state>
+        <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
@@ -487,37 +530,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="30" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345">
-          <folding />
-        </state>
+        <state line="37" column="30" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
@@ -542,37 +575,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="22" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345">
-          <folding />
-        </state>
+        <state line="39" column="22" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/atom.xml">
@@ -587,108 +610,123 @@
         <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="463" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="465" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="4" selection-start="595" selection-end="595" vertical-scroll-proportion="-0.625" vertical-offset="285" max-vertical-offset="3300" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+    <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="58" selection-start="1052" selection-end="1052" vertical-scroll-proportion="-10.625" vertical-offset="285" max-vertical-offset="705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="3379" selection-end="3379" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2520" />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="-4.5833335" vertical-offset="55" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="19" selection-start="454" selection-end="454" vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="440" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495">
+        <state line="154" column="10" selection-start="2507" selection-end="2507" vertical-scroll-proportion="-1.6931819" vertical-offset="3055" max-vertical-offset="3495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="2253" selection-end="2253" vertical-scroll-proportion="-17.555555" vertical-offset="141" max-vertical-offset="945">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
+    <entry file="file://$PROJECT_DIR$/_includes/topbar_argo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="129" selection-start="360" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.7875" vertical-offset="0" max-vertical-offset="405">
+        <state line="13" column="0" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.62376237" vertical-offset="0" max-vertical-offset="505">
           <folding />
         </state>
       </provider>

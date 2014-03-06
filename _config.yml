@@ -13,6 +13,7 @@ url:              http://helderdarocha.github.io
 
 author:
   name:           'Helder da Rocha'
-  url:            https://twitter.com/helderdarocha
+  url:            http://github.com/helderdarocha
+  copyright:      2014
 
 paginate:         5
