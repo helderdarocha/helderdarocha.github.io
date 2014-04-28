@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eb42588-4af2-475b-9e88-817af779fa05" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown" afterPath="$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2eb42588-4af2-475b-9e88-817af779fa05" name="Default" comment="" />
     <ignored path="helderdarocha.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,7 +26,8 @@
       <file leaf-file-name="2014-01-15-hello-world.markdown" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.62376237" vertical-offset="0" max-vertical-offset="505">
+            <state vertical-scroll-proportion="0.26785713" vertical-offset="0" max-vertical-offset="504">
+              <caret line="8" column="161" selection-start="253" selection-end="253" />
               <folding />
             </state>
           </provider>
@@ -40,7 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="129" selection-start="360" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+            <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+              <caret line="18" column="129" selection-start="360" selection-end="452" />
               <folding />
             </state>
           </provider>
@@ -49,7 +46,8 @@
       <file leaf-file-name="syntax.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/syntax.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+              <caret line="0" column="0" selection-start="0" selection-end="0" />
               <folding />
             </state>
           </provider>
@@ -58,7 +56,8 @@
       <file leaf-file-name="page.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="0" column="0" selection-start="0" selection-end="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +66,8 @@
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="465">
+            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="465">
+              <caret line="9" column="0" selection-start="194" selection-end="194" />
               <folding />
             </state>
           </provider>
@@ -76,7 +76,8 @@
       <file leaf-file-name="topbar_argo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/topbar_argo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+              <caret line="0" column="0" selection-start="0" selection-end="0" />
               <folding />
             </state>
           </provider>
@@ -85,7 +86,8 @@
       <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="31" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
+            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
+              <caret line="4" column="31" selection-start="90" selection-end="90" />
               <folding />
             </state>
           </provider>
@@ -94,7 +96,8 @@
       <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="585">
+            <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585">
+              <caret line="21" column="0" selection-start="799" selection-end="799" />
               <folding />
             </state>
           </provider>
@@ -103,7 +106,8 @@
       <file leaf-file-name="sidebar.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <caret line="0" column="0" selection-start="0" selection-end="0" />
               <folding />
             </state>
           </provider>
@@ -112,7 +116,8 @@
       <file leaf-file-name="header.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
+            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
+              <caret line="11" column="91" selection-start="438" selection-end="438" />
               <folding />
             </state>
           </provider>
@@ -180,7 +185,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -329,6 +333,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,6 +346,14 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -351,51 +364,28 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -410,7 +400,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24043716" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23972602" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -429,7 +419,7 @@
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -447,47 +437,65 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
+          <caret line="4" column="40" selection-start="286" selection-end="286" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <caret line="11" column="9" selection-start="578" selection-end="578" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495">
+          <caret line="127" column="0" selection-start="2023" selection-end="2023" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="345" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="345">
+          <caret line="12" column="0" selection-start="858" selection-end="858" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495">
+          <caret line="11" column="24" selection-start="227" selection-end="227" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585">
+          <caret line="21" column="0" selection-start="799" selection-end="799" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="2253" selection-end="2253" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="750" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="750">
+          <caret line="41" column="0" selection-start="2253" selection-end="2253" />
+        </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -495,129 +503,178 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
+          <caret line="4" column="40" selection-start="286" selection-end="286" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <caret line="11" column="9" selection-start="578" selection-end="578" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="0" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="3495">
+          <caret line="127" column="0" selection-start="2023" selection-end="2023" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="11" column="91" selection-start="438" selection-end="438" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="58" selection-start="1052" selection-end="1052" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="690" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="690">
+          <caret line="36" column="58" selection-start="1052" selection-end="1052" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="2520" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="2520">
+          <caret line="13" column="4" selection-start="375" selection-end="375" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="495">
+          <caret line="11" column="24" selection-start="227" selection-end="227" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585">
+          <caret line="21" column="0" selection-start="799" selection-end="799" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
+          <caret line="4" column="40" selection-start="286" selection-end="286" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <caret line="11" column="9" selection-start="578" selection-end="578" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="30" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345">
+          <caret line="37" column="30" selection-start="617" selection-end="617" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="24" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="18" column="24" selection-start="371" selection-end="371" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
+          <caret line="11" column="91" selection-start="438" selection-end="438" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="58" selection-start="708" selection-end="708" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="690" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="690">
+          <caret line="27" column="58" selection-start="708" selection-end="708" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="495" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="495">
+          <caret line="11" column="24" selection-start="227" selection-end="227" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="585">
+          <caret line="21" column="0" selection-start="799" selection-end="799" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300">
+          <caret line="4" column="40" selection-start="286" selection-end="286" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <caret line="11" column="9" selection-start="578" selection-end="578" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="22" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="3345">
+          <caret line="39" column="22" selection-start="677" selection-end="677" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/atom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="1" column="0" selection-start="7" selection-end="7" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="4" selection-start="595" selection-end="595" vertical-scroll-proportion="-0.625" vertical-offset="285" max-vertical-offset="3300" />
+        <state vertical-scroll-proportion="-0.625" vertical-offset="285" max-vertical-offset="3300">
+          <caret line="20" column="4" selection-start="595" selection-end="595" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="858" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="12" column="0" selection-start="858" selection-end="858" />
+        </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -625,12 +682,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_drafts/2014-01-29-trying-dr-jekylls-potion.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="3379" selection-end="3379" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2520" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2520">
+          <caret line="59" column="0" selection-start="3379" selection-end="3379" />
+        </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -638,95 +699,115 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comment_count.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
+          <caret line="0" column="0" selection-start="0" selection-end="160" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/disqus_comments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="290" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
+          <caret line="0" column="0" selection-start="0" selection-end="290" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="227" vertical-scroll-proportion="-4.5833335" vertical-offset="55" max-vertical-offset="495" />
+        <state vertical-scroll-proportion="-4.5833335" vertical-offset="55" max-vertical-offset="495">
+          <caret line="11" column="24" selection-start="227" selection-end="227" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="19" selection-start="454" selection-end="454" vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="440" />
+        <state vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="440">
+          <caret line="18" column="19" selection-start="454" selection-end="454" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="91" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="555">
+          <caret line="11" column="91" selection-start="438" selection-end="438" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="10" selection-start="2507" selection-end="2507" vertical-scroll-proportion="-1.6931819" vertical-offset="3055" max-vertical-offset="3495" />
+        <state vertical-scroll-proportion="-1.6931819" vertical-offset="3055" max-vertical-offset="3495">
+          <caret line="154" column="10" selection-start="2507" selection-end="2507" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="31" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="180">
+          <caret line="4" column="31" selection-start="90" selection-end="90" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="465">
+        <state vertical-scroll-proportion="0.0" vertical-offset="49" max-vertical-offset="465">
+          <caret line="9" column="0" selection-start="194" selection-end="194" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1110">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/topbar_argo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
+          <caret line="0" column="0" selection-start="0" selection-end="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="129" selection-start="360" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="690">
+          <caret line="18" column="129" selection-start="360" selection-end="452" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="799" selection-end="799" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="585">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="585">
+          <caret line="21" column="0" selection-start="799" selection-end="799" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-15-hello-world.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="1150" selection-end="1150" vertical-scroll-proportion="0.62376237" vertical-offset="0" max-vertical-offset="505">
+        <state vertical-scroll-proportion="0.26785713" vertical-offset="0" max-vertical-offset="504">
+          <caret line="8" column="161" selection-start="253" selection-end="253" />
           <folding />
         </state>
       </provider>
